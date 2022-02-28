@@ -1,7 +1,11 @@
 # HIl-Climb-Simplified (HTS)
- > This Project Comes under the Microsoft Future Ready Talent Program (FRT).
+  This Project Comes under the Microsoft Future Ready Talent Program (FRT).
 
- > The name of the WebSite is called HTS (Hill Travelling Simplified)
+ > Project Title :  HTS (Hill Travelling Simplified)
+
+ > Industry Name : LifeStyle
+ 
+ > Primary Azure Technology : Azure Bot Services, QnA Maker
 
 ## PROBLEM STATEMENT and Oportunity : 
 
