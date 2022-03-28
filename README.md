@@ -7,7 +7,7 @@
  
  > Primary Azure Technology : Azure Bot Services, QnA Maker
 
-## PROBLEM STATEMENT and Oportunity : 
+## Problem Statement and Oportunity : 
 
 During the Covid Period the most affected industry was the travelling industry and they have suffered so much 
 loss in their bussiness that many of them have lost their jobs. So we have come with the solution to provide the user with the best option 
